@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyViewAndViewGroup</string>
+
+    <string name="content_text">Elden Ring is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment.
+        The game was directed by Hidetaka Miyazaki and made in collaboration with fantasy novelist George R. R. Martin, who provided material
+        for the game\'s setting.</string>
+
+    <string name="os">Windows 10</string>
+
+    <string name="processor"> INTEL CORE I5-8400 or AMD RYZEN 3 3300X</string>
+
+    <string name="memory">12 GB RAM</string>
+
+    <string name="graphics">NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB</string>
+    
+    <string name="directx">Version 12</string>
+    
+    <string name="storage">60 GB available space</string>
+    
+    <string name="sound_card">Windows Compatible Audio Device</string>
+    
+
+    
+</resources>
